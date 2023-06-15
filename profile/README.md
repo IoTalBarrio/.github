@@ -1,4 +1,4 @@
-# IoT al BArrio
+# IoT al Barrio
 
 
 ## Miembros
